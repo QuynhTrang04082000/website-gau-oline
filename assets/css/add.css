@@ -1,0 +1,6 @@
+.block-content{
+	display: none;
+}
+.block-title:hover .block-content{
+	display:block;
+}
